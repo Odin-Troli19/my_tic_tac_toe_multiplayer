@@ -23,8 +23,8 @@ A multiplayer Tic Tac Toe game with customizable player names and colors. Play l
 
 ## How to Run
 
-1. Save the code to a file (e.g., `tic_tac_toe.py`)
-2. Run the game with the command:
+
+1. Run the game with the command:
    ```
    python tic_tac_toe.py
    ```
